@@ -4,7 +4,7 @@
 </p>
 
 ## What is the Stylus Toolkit?
-The Stylus Toolkit is a collection of scripts and components intended to accelerate development of applications targeting the new 3D input device Stylus XR for head-mounted units. Stylus XR works as interaction and creation tool in Mixed Reality with yet unmatched precision and was developed by Holo-Light. Currently Stylus Toolkit supports the creation of Mixed Reality applications for Microsoft HoloLens 2 with Unity 3D.
+The Stylus Toolkit is a collection of scripts and components intended to accelerate development of applications targeting the new 3D input device Stylus XR for head-mounted units. Stylus XR works as interaction and creation tool in Mixed Reality with yet unmatched precision and was developed by MXR Technologies. Currently Stylus Toolkit supports the creation of Mixed Reality applications for Microsoft HoloLens 2 with Unity 3D.
 
 ## Getting started with STK
 To take advantage of Stylus XR’s various capabilities, have a look at [Getting Started](Docs/GETTING_STARTED.md) that help you getting started with your first Mixed Reality Apps for Stylus XR in Unity 3D.
@@ -13,7 +13,6 @@ To take advantage of Stylus XR’s various capabilities, have a look at [Getting
 
 > :white_check_mark: For MRTK 2.5 read the guide [here](Docs/MRTK25.md)
 
-Have a look at our [Quick Start Guide](https://support.holo-light.com/hc/en-us/articles/360015956079), which helps you on getting started with setup the device correctly for first use.
 
 ## Docs
 
